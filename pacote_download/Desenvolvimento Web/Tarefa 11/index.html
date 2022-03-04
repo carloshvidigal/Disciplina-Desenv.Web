@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+    <head>
+        <title> Tarefa 11 - Carlos Henrique</title>
+        <meta charset="UTF-8" />
+        <script src="index.js"></script> 
+        <link rel="stylesheet" type="text/css" href="style.css" />
+    </head>
+
+
+
+    <body onload="geraEq()">
+        
+            <h1>Equação de segundo grau</h1><br>
+            <h2 id="msg1"></h2><br>
+        
+
+        
+        <form id="formulario">           
+            <h2 id="enunciado">1) Digite o valor das raízes x1 e x2.</h2>
+            <h2 id="instruções">Instruções</h2>
+            <p>a) Caso a equação não possua raíz real, deixe-os em branco.</p>
+            <p>b) Caso a equação possua apenas uma raíz real, ela pode ser digitada em qualquer um dos campos ou nos dois.</p>
+            <p>c) Se a tela mudar sua cor para verde: Você acertou a resposta!</p>
+            <p>d) Se a tela mudar sua cor para vermelho: Você errou a resposta. Você pode tentar novamente até a tela ficar verde.</p>
+            
+            <br><br><br>
+            Digite aqui o valor da raiz 1 - x1: <input type="text" name="x1" id="x1" ><br>
+            Digite aqui o valor da raiz 2 - x2:  <input type="text" name="x2" id="x2" ><br>
+        </form>
+        
+        <button onClick="calculaEq()">Enviar Resposta</button>
+
+        
+        <h2 id="Gabarito">Gabarito</h2>
+        <h2 id="dlta"></h2>
+        <h2 id="r1"></h2>
+        <h2 id="r2"></h2>
+
+      
+    
+</html>

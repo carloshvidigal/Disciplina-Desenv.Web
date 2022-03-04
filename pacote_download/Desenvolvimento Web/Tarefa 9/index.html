@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+        <title> Tarefa 9 - Carlos Henrique</title>
+        <meta charset="UTF-8" />
+    </head>
+
+    <body>
+        
+    
+        <h1>  Os eventos escolhidos foram "onmouseenter" e "onmouseout".</h1> 
+        <p> Passe o mouse na tela de edição abaixo e confira - ela deverá indicar quando o mouse encontra-se dentro ou fora.</p>    
+        
+        <div id="local" onmouseenter="mouseDentro()" onmouseout="mouseFora()">
+        
+            Passe o mouse aqui
+        
+        </div>
+
+        
+        
+        <script>
+
+            function mouseDentro(){
+
+                var local = window.document.getElementById('local')
+                local.innerHTML = 'MOUSE-DENTRO!'
+            }
+            function mouseFora(){
+
+                var local = window.document.getElementById('local')
+                local.innerHTML = 'MOUSE-FORA!'
+
+            }
+        
+        </script>
+    
+    
+    
+    </body>
+
+
+</html>

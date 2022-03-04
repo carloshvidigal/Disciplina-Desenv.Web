@@ -1,0 +1,31 @@
+.menu{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    
+}
+
+
+.menu ul{
+    padding-left: 10px;
+    background-color: lightblue;
+    height: auto;
+    border: solid 3px;
+    border-color: darkblue;
+}
+
+
+.menu li {
+    
+    display: inline-block;
+    margin-right: 4ex;
+}
+
+.menu a{
+    display: block;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    padding-top: 4px;    
+    padding-bottom: 4px;
+    
+}

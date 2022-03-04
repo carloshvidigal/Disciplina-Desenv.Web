@@ -1,0 +1,80 @@
+#contTitulo{
+    display: flex;
+    align-items: flex-end;
+    width: 90%;
+    height: 8%;
+    background-color: rgb(100, 228, 237);
+    flex-direction: row;
+    justify-content:space-between;
+    border:solid 3px;
+    border-color: darkblue;
+}
+.caixaTitulo1{
+    width: auto;
+    height: auto;
+    font-family: 'Lucida Sans';
+    font-size: 200%;
+    margin-left: 10px;
+    text-align: center;
+    background-color: rgb(100, 228, 237);
+}   
+.caixaTitulo2{
+    width: auto;
+    height: auto;
+    font-family: 'Lucida Sans';
+    font-size: 100%;
+    font-weight: bold;
+    margin-right: 50px;
+    background-color: rgb(100, 228, 237);
+}   
+
+#contMenu{
+    margin-top: 3px;
+    display: flex;
+    align-items: flex-end;
+    width: 90%;
+    height: 5%;
+    background-color: lightgray;
+    flex-direction: row;
+    border:solid 3px;
+    border-color: rgb(0, 0, 0);
+    flex-wrap: wrap;
+}
+
+.caixaMenu{
+    margin-left: 2em;
+    width: auto;
+    height: auto;
+    font-family: 'Lucida Sans';
+    font-style:bold;
+    font-size:medium;
+    font-weight: bold;
+    margin-right: 2em;
+    align-items: center;
+}   
+
+#contArtigos{
+    margin-top: 3px;
+    display: flex;
+    width: 92.5%;
+    height: 300px;
+    flex-direction: row;
+    align-items: flex-start;
+    
+}
+
+.caixaArtigos{
+    width: 30%;
+    height: 90%;
+    font-family: 'Lucida Sans';
+    margin-right: 2px;
+    padding: 1%;
+    font-style:bold;
+    font-size: 100%;
+    font-weight: bold;
+    border: solid 3px;
+    overflow-y: scroll;
+    overflow-y: auto;
+    background-color: salmon;
+    text-align: justify;
+}   

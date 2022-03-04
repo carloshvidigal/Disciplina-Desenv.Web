@@ -1,0 +1,58 @@
+h1{
+    margin-left: 40%;
+
+
+}
+
+h2#msg1{
+    margin-left: 47%;
+    font-size: 26px;
+}
+
+h2#enunciado{
+    font-size: 20px;
+}
+
+h2#instruções{
+    font-size: 18px;
+    margin-left: 30px;
+}
+
+p{
+    margin-left: 110px ;
+}
+
+button{
+
+    border-color: rgb(2, 2, 2);
+    background-color: rgb(196, 196, 196);
+    color: rgb(0, 0, 0);
+    margin-top: 5px;
+    margin-left: 280px;
+}
+
+h2#instruções{
+    font-size: 18px;
+    margin-left: 30px;
+}
+
+
+h2#Gabarito{
+    font-size: 12px;
+    margin-left: 90%;
+}
+
+h2#dlta{
+    font-size: 12px;
+    margin-left: 90%;
+}
+
+h2#r1{
+    font-size: 12px;
+    margin-left: 90%;
+}
+
+h2#r2{
+    font-size: 12px;
+    margin-left: 90%;
+}

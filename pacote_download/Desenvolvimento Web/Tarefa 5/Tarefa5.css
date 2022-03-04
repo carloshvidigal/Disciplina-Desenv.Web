@@ -1,0 +1,50 @@
+.minhaClasse1{
+        text-align: justify;
+        background-color: rgb(194, 164, 186);            
+        font-family:cursive;
+}
+
+.minhaClasse2{
+        color: yellow;
+
+}
+
+
+h2{
+        color: crimson;
+        background-color: darksalmon;
+        font-size:medium;
+        text-align: center;
+}
+
+#primeiroParagrafo{
+
+        color:#1C1C1C;
+        background-color:rgb(146, 68, 84) ;
+        font-size: x-large;
+}
+
+a[href$=".org"]{
+
+        color: blanchedalmond;
+        background-color: rgb(167, 139, 102);
+        
+}
+
+a[href$=".org"]:hover { outline: dotted red }
+
+a {
+        text-align: center;
+        color: darkblue;
+        text-decoration: seagreen;
+        background-color: rgb(136, 135, 135);
+}
+
+
+h3 a{
+        color: rgb(85, 2, 18);
+        background-color: royalblue;
+        text-align:center;
+        font-family: cursive;
+} 
+

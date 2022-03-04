@@ -1,0 +1,105 @@
+			INTRODUÇÃO
+
+.Introdução:
+
+https://www.youtube.com/watch?v=P1M3UjUmWDo&feature=youtu.be
+
+.Marcadores HTML:
+
+https://www.youtube.com/watch?v=4J32O4wqZkY&feature=youtu.be
+
+.Validadores:
+
+https://www.youtube.com/watch?v=XRqYefC5pHI&feature=youtu.be
+
+.Referências:
+
+https://www.youtube.com/watch?v=za5pdlh-vYY&feature=youtu.be
+
+
+			LIGAÇÕES ENTRE DOCUMENTOS
+
+.Ligações entre páginas HTML em outros sites:
+
+https://www.youtube.com/watch?v=YpIPW3jFBWE&feature=youtu.be
+
+.Ligações entre páginas no mesmo servidor:
+
+https://www.youtube.com/watch?v=msJcpXIv_p8&feature=youtu.be
+
+.Ligações para pontos de um mesmo documento:
+
+https://www.youtube.com/watch?v=DZPjydRWTO4&feature=youtu.be
+
+.Tabelas com HTML:
+
+https://www.youtube.com/watch?v=Sb1dxMq9Zvg&feature=youtu.be
+
+
+			FORMULÁRIOS
+. Formulários:
+
+1:https://www.youtube.com/watch?v=Evh2PN_gV94&feature=youtu.be
+2:https://www.youtube.com/watch?v=mSTjAOHvkeQ&feature=youtu.be
+3:https://www.youtube.com/watch?v=ZRj2eatphBg&feature=youtu.be
+
+
+				CSS
+
+.Intro:
+
+https://www.youtube.com/watch?v=AEVqCEsRSh4&feature=youtu.be
+
+.Sintaxe básica:
+
+https://www.youtube.com/watch?v=_tgwniw_oZE&feature=youtu.be
+
+.Seletores:
+
+https://www.youtube.com/watch?v=sBfA8_zDGVk&feature=youtu.be
+
+.Cores com CSS:
+
+https://www.youtube.com/watch?v=0WbngP0ubu4&feature=youtu.be
+
+.Tamanhos com CSS:
+
+https://www.youtube.com/watch?v=E0nRdx14Bg8&feature=youtu.be
+
+.Display:
+
+https://www.youtube.com/watch?v=O6r-c9Niw_U&feature=youtu.be
+
+.Flex:
+
+https://www.youtube.com/watch?v=o4DG0PFZ8C4
+
+.Position:
+
+https://www.youtube.com/watch?v=H8YuYkGgsyg
+
+
+
+
+				JAVA SCRIPT
+
+.Intro:
+https://www.youtube.com/watch?v=wwJ9B01cGmc
+
+.Primeiro Script:
+https://www.youtube.com/watch?v=jWXT01BuGm0
+
+.Eventos:
+https://www.youtube.com/watch?v=HxU9GWSnn1U
+
+.Referenciando elementos:
+https://www.youtube.com/watch?v=xnWMwTvN50Y
+
+.Classe string:
+https://www.youtube.com/watch?v=AEALZtOZKLM
+
+.Noção da linguagem de programação JS:
+https://www.youtube.com/watch?v=4PBZNtx8sdk
+
+.Js Style
+https://www.youtube.com/watch?v=ukrvsn8rIL0
